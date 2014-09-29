@@ -1,4 +1,4 @@
-FROM kriwil/ubuntu-oracle-java7
+FROM kriwil/docker-ubuntu-java7
 MAINTAINER aldi <kriwil@gmail.com>
 
 # TeamCity data is stored in a volume to facilitate container upgrade
